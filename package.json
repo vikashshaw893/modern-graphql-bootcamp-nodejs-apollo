@@ -1,0 +1,26 @@
+{
+  "name": "modern-graphql-bootcamp-nodejs-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "graphql",
+    "graphql-yoga",
+    "graphql-server",
+    "apollo",
+    "babel",
+    "babel-preset-env"
+  ],
+  "author": "Vikash Shaw",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "graphql-yoga": "^1.18.3"
+  }
+}
